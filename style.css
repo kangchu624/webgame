@@ -6,4 +6,25 @@ body {
     min-height: 100vh;
     margin: 0;
   }
+
+  /* Basic styling for the menu */
+  #gameMenu {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  #gameMenu button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Style the game container */
+  #gameContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
   
