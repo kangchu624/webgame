@@ -1,0 +1,9 @@
+body {
+    background-color: #000; /* Black background for space */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+  }
+  
